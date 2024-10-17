@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DAN-AI-ML
+- 👀 I’m interested in using AI to solve business challenges, machine learning, and developing prompt engineering techniques.
+- 🌱 I’m currently learning advanced AI workflows, model fine-tuning, and how to implement cutting-edge AI solutions with Python and JavaScript.
+- 💞️ I’m looking to collaborate on AI-driven projects, especially in areas like real-time object detection, NLP solutions, and AI automation tools.
+- 📫 How to reach me: You can contact me via LinkedIn at https://www.linkedin.com/in/dan-cloudengineer/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about bringing AI into everyday business operations to make work more efficient and enjoyable.
